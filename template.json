@@ -1,0 +1,10 @@
+[
+	{"name":"dungeons","type":"count"},
+	{"name":"dungeons","type":"offset"},
+	{"name":"dungeons","type":[
+	["id","int32"],
+	["unk","int32"],
+	["cooldown","int32"],
+	["entries","int16"]
+	]}
+]
